@@ -1,0 +1,58 @@
+.Header{
+    font-size: large;
+    font-weight: 300;
+    color: cornflowerblue;
+}
+
+.newuser{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: blanchedalmond;
+    
+}
+
+.Fun{
+    box-sizing: border-box;
+    border: 2px solid blueviolet;
+    background-color: crimson;
+    text-align: center;
+}
+
+body{
+    background-color: cyan;
+}
+
+.Fun p{
+    color: cyan;
+}
+
+.Fun h3{
+    font-size: large;
+    color: darkred;
+}
+
+.name{
+    text-align: center;
+}
+
+.password{
+    text-align: center;
+}
+
+.confirmpassword{
+    text-align: center;
+}
+
+.email{
+    text-align: center;
+}
+
+.Header{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
